@@ -1,0 +1,29 @@
+/* styles.css */
+h1 {
+    font-family: cursive;
+    font-weight: 400;
+    text-align: center;
+    color: brown;
+    background-color: azure;
+}
+
+form {
+    text-align: center;
+    margin: 20px;
+    color: black;
+}
+input{
+    color: red;
+    font-size: xx-large;
+}
+
+#securedPage {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
+
+.but{
+    font-size: xx-large;
+}
+
